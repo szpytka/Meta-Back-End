@@ -25,3 +25,5 @@ for x in range(1, 5):  # months
             break
     if break_out:
         break
+
+os.system("git push -u origin")
